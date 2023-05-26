@@ -1,0 +1,38 @@
+{
+    "sellers": [
+        {
+            "name": "Armen",
+            "surname": "Mel",
+            "city": "Yerevan",
+            "car_park": [],
+            "money": 0,
+            "sold_cars": []
+        }
+    ],
+    "cars": [
+        {
+            "model": "BMW",
+            "year": 2015,
+            "price": 5000,
+            "seller": "Armen"
+        }
+    ],
+    "buyers": [
+        {
+            "name": "Vazgen",
+            "surname": "Vardanyan",
+            "city": "Gyumri",
+            "money": 25000,
+            "spent_money": 0,
+            "bought_cars": []
+        },
+        {
+            "name": "John",
+            "surname": "Smith",
+            "city": "New York",
+            "money": 100000,
+            "spent_money": 0,
+            "bought_cars": []
+        }
+    ]
+}
